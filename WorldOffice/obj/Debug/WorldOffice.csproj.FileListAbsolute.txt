@@ -1,0 +1,11 @@
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\bin\Debug\WorldOffice.exe.config
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\bin\Debug\WorldOffice.exe
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\bin\Debug\WorldOffice.pdb
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.csprojAssemblyReference.cache
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.csproj.ResolveComReference.cache
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.Form1.resources
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.Properties.Resources.resources
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.csproj.GenerateResource.cache
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.csproj.CoreCompileInputs.cache
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.exe
+C:\Users\Тоха\source\repos\WorldOffice\WorldOffice\obj\Debug\WorldOffice.pdb
